@@ -4,7 +4,7 @@
 #
 Name     : perl-boolean
 Version  : 0.46
-Release  : 14
+Release  : 15
 URL      : https://cpan.metacpan.org/authors/id/I/IN/INGY/boolean-0.46.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/I/IN/INGY/boolean-0.46.tar.gz
 Summary  : 'Boolean support for Perl'
